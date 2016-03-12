@@ -1,0 +1,28 @@
+Partlist
+
+Part     Value          Device                Package               
+
+C1       220uF          CPOL-EUCT3528         CT3528                
+C2       0.1u           C-USC0603K            C0603K                
+C4       0.1u           C-USC0603K            C0603K                
+CH340    CH340G         CH340G                SO16                  
+D1       SS14           DIODE-DO-214AC        DO-214AC              
+D2       3.3V Zener     DIODE-MINIMELF        MINIMELF              
+D3       SS14           DIODE-DO-214AC        DO-214AC              
+ESP      WROOM02        WROOM02               WROOM                 
+G0                      31-XX                 B3F-31XX              
+IC1      1117-33        LM1117-ee             SOT223                
+JP1      ULTRASONIC     DISTANCE SENSOR       1X04_SONICSENSOR      
+LED                     LEDLED3MM_ABBRV       LED3MM_ABBRV          
+OPENER   OPENER         M024MM-X              SCREWTERMINAL-4MM-2-X 
+Q        2N3904         2N3902                SOT23-3               
+R1       10K            R-US_R0603            R0603                 
+R2       10K            R-US_R0603            R0603                 
+R3       10K            R-US_R0603            R0603                 
+R4       1K             R-US_R0603            R0603                 
+R5       100K           R-US_R0603            R0603                 
+R6       100            R-US_R0603            R0603                 
+R9       10K            R-US_R0603            R0603                 
+RELAY    RELAY-2        RELAY-2               RELAY-HK4100F-5VDC
+X        12MHz          RESONATORSMD          RESONATOR-SMD         
+X3       USB-MICROB     USB-MICROB            USB-MICROB            
