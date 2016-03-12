@@ -1,3 +1,8 @@
+
+OpenGarge is a WiFi universal garage door opener based on the ESP8266 chip.
+
+For details, visit www.opengaragedoor.com
+
 This folder contains OpenGarage hardware design files, including:
 
 * Schematic and Board files (EagleCAD)
