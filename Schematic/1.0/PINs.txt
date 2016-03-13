@@ -2,7 +2,7 @@ ESP8266-WROOM-2 PIN ASSIGNMENTS:
 
 'spare' means the pin is available
 for general purpose use and mapped
-out in the pin-our area.
+out on the PCB.
 
 GPIO 0: BUTTON
 GPIO 2: LED
@@ -13,3 +13,4 @@ GPIO13: (spare)
 GPIO14: SENSOR ECHO
 GPIO15: RELAY
 GPIO16: RESET (tied to reset to trigger hardware reset)
+A0    : ANALOG PIN (spare)
