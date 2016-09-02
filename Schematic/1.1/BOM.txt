@@ -1,0 +1,36 @@
+Part List
+
+Part   Value      Device                Package               Description                          
+
+C1     220uF      CPOL-EUCT3528         CT3528                POLARIZED CAPACITOR, European symbol 
+C2     0.1u       C-USC0603K            C0603K                CAPACITOR, American symbol           
+C4     0.1u       C-USC0603K            C0603K                CAPACITOR, American symbol           
+CH340  CH340G     CH340G                SO16                                                       
+D1     SS14       DIODE-DO-214AC        DO-214AC              DIODE                                
+D2     3.3V       DIODE-MINIMELF        MINIMELF              DIODE                                
+D3     SS14       DIODE-DO-214AC        DO-214AC              DIODE                                
+D4     SS14       DIODE-DO-214AC        DO-214AC              DIODE                                
+ESP    WROOM02    WROOM02               WROOM                                                      
+G0                31-XX                 B3F-31XX              OMRON SWITCH                         
+IC1    1117-33    V_REG_LM1117SOT223    SOT223                Voltage Regulator LM1117             
+JP1    ULTRASONIC HC-SR04               HC-SR04                          
+LED               LEDLED3MM_ABBRV       LED3MM_ABBRV          LED                                  
+LED1              LEDCHIPLED_0805       CHIPLED_0805          LED                                  
+OPENER OPENER     M024MM-X              SCREWTERMINAL-4MM-2-X Header 2                             
+Q      2N3904     TRANSISTOR_NPNSOT23-3 SOT23-3               Transistor NPN                       
+Q1     2N3904     TRANSISTOR_NPNSOT23-3 SOT23-3               Transistor NPN                       
+R1     10K        R-US_R0603            R0603                 RESISTOR, American symbol            
+R2     10K        R-US_R0603            R0603                 RESISTOR, American symbol            
+R3     10K        R-US_R0603            R0603                 RESISTOR, American symbol            
+R4     1K         R-US_R0603            R0603                 RESISTOR, American symbol            
+R5     100K       R-US_R0603            R0603                 RESISTOR, American symbol            
+R6     100        R-US_R0603            R0603                 RESISTOR, American symbol            
+R7     100K       R-US_R0603            R0603                 RESISTOR, American symbol            
+R8     1K         R-US_R0603            R0603                 RESISTOR, American symbol            
+R9     10K        R-US_R0603            R0603                 RESISTOR, American symbol            
+R10    1          R-US_R0603            R0603                 RESISTOR, American symbol            
+RELAY  RELAY-2    HK4100F-5VDC          HK4100F-5VDC                                            
+SG1               BUZZERPTH             BUZZER-12MM           Buzzer 12mm                          
+U$2    BUZZER     BUZZER                SMT-8585-BUZZER                                            
+X      12MHz      RESONATORSMD          RESONATOR-SMD         Resonator                            
+X3     USB-MICROB USB-MICROB            USB-MICROB            USB Connectors                       
